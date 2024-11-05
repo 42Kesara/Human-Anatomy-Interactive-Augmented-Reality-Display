@@ -50,14 +50,3 @@ We welcome contributions from the community! 🙌 Help us enhance and expand the
 ![1234577](https://github.com/user-attachments/assets/26bb12de-871a-4116-b992-a1d754c8b81a)
 ![Untitled](https://github.com/user-attachments/assets/327a5440-ba5b-49bb-ba4b-dc2a8c33bdb7)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). 📝
-
-## Connect with Us
-
-Stay updated and share your experiences! Follow us on our social media channels or join our discussion forum to connect with fellow anatomy enthusiasts and developers. 🌐
-
----
-
-Thank you for checking out the Human Anatomy Interactive Augmented Reality Display! We hope you find it as exciting and informative as we do! 😊
