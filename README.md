@@ -1,6 +1,6 @@
 # 🦴 Human Anatomy Interactive Augmented Reality Display
 
-![AR Display](path/to/your/image.png) <!-- Replace with an actual image path -->
+[AR Display](path/to/your/image.png) <!-- Replace with an actual image path -->
 
 ## Project Overview
 
