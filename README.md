@@ -50,3 +50,4 @@ We welcome contributions from the community! 🙌 Help us enhance and expand the
 ![1234577](https://github.com/user-attachments/assets/26bb12de-871a-4116-b992-a1d754c8b81a)
 ![Untitled](https://github.com/user-attachments/assets/17b9b01a-eb19-498e-8754-eb8f6b6514ca)
 
+Thank you for checking out the Human Anatomy Interactive Augmented Reality Display! We hope you find it as exciting and informative as we do! 😊
