@@ -46,6 +46,10 @@ Follow these steps to start using the Human Anatomy Interactive Augmented Realit
 
 We welcome contributions from the community! 🙌 Help us enhance and expand the Human Anatomy Interactive Augmented Reality Display. If you have ideas, bug reports, or would like to contribute code, feel free to submit a pull request or open an issue on our GitHub repository.
 
+
+![1234577](https://github.com/user-attachments/assets/26bb12de-871a-4116-b992-a1d754c8b81a)
+![Untitled](https://github.com/user-attachments/assets/327a5440-ba5b-49bb-ba4b-dc2a8c33bdb7)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE). 📝
