@@ -1,7 +1,4 @@
 # 🦴 Human Anatomy Interactive Augmented Reality Display
-
-[AR Display](path/to/your/image.png) <!-- Replace with an actual image path -->
-
 ## Project Overview
 
 Welcome to the **Human Anatomy Interactive Augmented Reality Display**! 🎉 This AR educational application revolutionizes the way we learn about human anatomy by transforming complex 3D structures into an engaging, interactive experience. Say goodbye to traditional 2D illustrations and immerse yourself in the fascinating world of human anatomy! 🧠
